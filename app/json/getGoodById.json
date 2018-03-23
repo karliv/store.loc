@@ -1,0 +1,58 @@
+[
+  {
+    "result": 1,
+    "product_id": 27,
+    "product_name": "T-shirt",
+    "product_price": "13.00",
+    "product_image": "img/layer-2.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 125,
+    "product_name": "Blouse",
+    "product_price": "22.40",
+    "product_image": "img/layer-3.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 126,
+    "product_name": "Jacket",
+    "product_price": "34.00",
+    "product_image": "img/layer-4.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 127,
+    "product_name": "Dress",
+    "product_price": "62.00",
+    "product_image": "img/layer-5.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 128,
+    "product_name": "Dress with a deep neckline",
+    "product_price": "29.99",
+    "product_image": "img/layer-6.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 129,
+    "product_name": "A jacket",
+    "product_price": "46.20",
+    "product_image": "img/layer-7.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 130,
+    "product_name": "Breeches",
+    "product_price": "52.00",
+    "product_image": "img/layer-8.jpg"
+  },
+  {
+    "result": 1,
+    "product_id": 19,
+    "product_name": "Hoody",
+    "product_price": "22.00",
+    "product_image": "img/layer-9.jpg"
+  }
+]

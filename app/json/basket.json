@@ -1,0 +1,21 @@
+{
+  "result": 1,
+  "basket": [
+    {
+      "id_product": 12,
+      "title": "Baseball cap",
+      "price": "11.52",
+      "quantity": 2,
+      "img": "img/layer-7.jpg"
+    },
+    {
+      "id_product": 19,
+      "title": "Hoody",
+      "price": "22.00",
+      "quantity": 1,
+      "img": "img/layer-9.jpg"
+    }
+  ],
+  "amount": "45.04",
+  "countGoods": 3
+}
